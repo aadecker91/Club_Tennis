@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsMiamiRoster" value="name:firstName;datatype:string,name:lastName;datatype:string,name:phoneNumber;datatype:string,name:email;datatype:string" />
+</info>
