@@ -1,3 +1,5 @@
+#!/usr/local/bin/php
+
 <?php require_once('Connections/tournamentroster.php'); ?>
 <?php
 /*if (!function_exists("GetSQLValueString")) {
