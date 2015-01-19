@@ -1,6 +1,6 @@
 <?php require_once('Connections/tournamentroster.php'); ?>
 <?php
-if (!function_exists("GetSQLValueString")) {
+/*if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
 {
   if (PHP_VERSION < 6) {
@@ -68,7 +68,7 @@ $query_rsRoster = "SELECT firstName, lastName FROM gatorClassic ORDER BY firstNa
 $rsRoster = mysql_query($query_rsRoster, $tournamentroster) or die(mysql_error());
 $row_rsRoster = mysql_fetch_assoc($rsRoster);
 $totalRows_rsRoster = mysql_num_rows($rsRoster);
-?>
+*/?>
 <!doctype html>
 <html>
 <head>
@@ -76,7 +76,7 @@ $totalRows_rsRoster = mysql_num_rows($rsRoster);
 <title>UF Club Tennis</title>
 <style type="text/css">
 .content {
-	background-color: rgba(0,0,255,.2);
+	background-color: rgba(0,34,164,.5);
 	margin-left: 1%;
 	border-radius: 5px;
 	margin-right: 3%;
@@ -143,5 +143,5 @@ form {
 </body>
 </html>
 <?php
-mysql_free_result($rsRoster);
+//mysql_free_result($rsRoster);
 ?>

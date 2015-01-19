@@ -84,7 +84,7 @@ ul.MenuBarHorizontal ul.MenuBarSubmenuVisible ul.MenuBarSubmenuVisible
 /* Submenu containers have borders on all sides */
 ul.MenuBarHorizontal ul
 {
-	border: 1px solid #CCC;
+	border: 1px solid rgba(0,0,255,1);
 }
 /* Menu items are a light gray block with padding and no text decoration */
 ul.MenuBarHorizontal a
@@ -94,20 +94,20 @@ ul.MenuBarHorizontal a
 	color: #FFF;
 	text-decoration: none;
 	text-align: center;
-	background-color: rgba(0,0,0,0);
-	padding-top: 4px;
-	padding-bottom: 4px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border: thin solid rgba(0,0,255,.9);
 }
 /* Menu items that have mouse over or focus have a blue background and white text */
 ul.MenuBarHorizontal a:hover, ul.MenuBarHorizontal a:focus
 {
-	background-color: #00F;
+	background-color: rgba(255,75,0,1);
 	color: #FFF;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
 ul.MenuBarHorizontal a.MenuBarItemHover, ul.MenuBarHorizontal a.MenuBarItemSubmenuHover, ul.MenuBarHorizontal a.MenuBarSubmenuVisible
 {
-	background-color: #00F;
+	background-color: rgba(255,75,0,1);
 	color: #FFF;
 }
 

@@ -22,16 +22,17 @@
 <file name="SpryMenuBarRight.gif" server="C:/wamp/www/dwwithphp/" local="130173510524672112" remote="130173510520000000" Dst="1" />
 <file name="SpryMenuBarDownHover.gif" server="C:/wamp/www/dwwithphp/" local="130173510524602108" remote="130173510520000000" Dst="1" />
 <file name="SpryMenuBarRightHover.gif" server="C:/wamp/www/dwwithphp/" local="130173510524692113" remote="130173510520000000" Dst="1" />
-<file name="SpryMenuBarHorizontal.css" server="C:/wamp/www/dwwithphp/" local="130201091825277131" remote="130201091820000000" Dst="1" />
-<file name="SpryValidationTextField.css" server="C:/wamp/www/dwwithphp/" local="130173881598719885" remote="130173881590000000" Dst="2" />
-<file name="SpryValidationTextarea.css" server="C:/wamp/www/dwwithphp/" local="130173881598739886" remote="130173881590000000" Dst="2" />
+<file name="SpryMenuBarHorizontal.css" server="C:/wamp/www/dwwithphp/" local="130660906304489155" remote="130660906300000000" Dst="1" />
+<file name="SpryValidationTextField.css" server="C:/wamp/www/dwwithphp/" local="130173881598719885" remote="130173881590000000" Dst="1" />
+<file name="SpryValidationTextarea.css" server="C:/wamp/www/dwwithphp/" local="130173881598739886" remote="130173881590000000" Dst="1" />
 <file name="SpryMenuBar.js" server="C:/wamp/www/dwwithphp/" local="130173510524592108" remote="130173510520000000" Dst="1" />
-<file name="SpryValidationTextField.js" server="C:/wamp/www/dwwithphp/" local="130173881598729886" remote="130173881590000000" Dst="2" />
-<file name="SpryMenuBarVertical.css" server="C:/wamp/www/dwwithphp/" local="130199618204464259" remote="130199618200000000" Dst="2" />
+<file name="SpryValidationTextField.js" server="C:/wamp/www/dwwithphp/" local="130173881598729886" remote="130173881590000000" Dst="1" />
+<file name="SpryMenuBarVertical.css" server="C:/wamp/www/dwwithphp/" local="130660912560585801" remote="130660912560000000" Dst="1" />
 <file name="SpryValidationCheckbox.css" server="729.06f.myftpupload.com" local="130379249878853264" remote="130379184600000000" Dst="1" />
 <file name="SpryValidationCheckbox.js" server="729.06f.myftpupload.com" local="130379249878853264" remote="130379184600000000" Dst="1" />
 <file name="SpryValidationRadio.css" server="729.06f.myftpupload.com" local="130379249878853264" remote="130379184600000000" Dst="1" />
 <file name="SpryValidationRadio.js" server="729.06f.myftpupload.com" local="130379249878853264" remote="130379184600000000" Dst="1" />
 <file name="SpryValidationSelect.css" server="729.06f.myftpupload.com" local="130379249878853264" remote="130379184600000000" Dst="1" />
 <file name="SpryValidationSelect.js" server="729.06f.myftpupload.com" local="130379249879053264" remote="130379184600000000" Dst="1" />
+<file name="SpryValidationTextarea.js" server="C:/wamp/www/dwwithphp/" local="130173881598749887" remote="130173881590000000" Dst="1" />
 </dwsync>

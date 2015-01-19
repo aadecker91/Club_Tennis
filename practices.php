@@ -14,7 +14,7 @@
 	padding: 10px 0;
 	width: 78%;
 	float: right;
-	background-color: rgba(0,0,255,.2);
+	background-color: rgba(0,34,164,.5);
 	border-radius: 5px;
 	margin-right: 1%;
 }

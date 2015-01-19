@@ -5,7 +5,7 @@
 <title>UF Club Tennis</title>
 <style type="text/css">
 .content {
-	background-color: rgba(0,0,255,.2);
+	background-color: rgba(0,34,164,.5);
 	margin-left: 1%;
 	border-radius: 5px;
 	margin-right: 3%;

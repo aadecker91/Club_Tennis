@@ -9,7 +9,7 @@
 	width: 78%;
 	float: right;
 	margin-right: 1%;
-	background-color: rgba(0,0,255,.2);
+	background-color: rgba(0,34,164,.5);
 	border-radius: 5px;
 }
 table {

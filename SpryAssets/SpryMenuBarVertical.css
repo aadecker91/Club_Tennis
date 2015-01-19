@@ -21,7 +21,7 @@ ul.MenuBarVertical
 	width: 100%;
 	border-top-width: 1px;
 	border-top-style: solid;
-	border-top-color: rgba(0,0,255,1);
+	border-top-color: rgba(0,0,255,.9);
 }
 /* Set the active Menu Bar with this class, currently setting z-index to accomodate IE rendering bug: http://therealcrisp.xs4all.nl/meuk/IE-zindexbug.html */
 ul.MenuBarActive
@@ -41,7 +41,8 @@ ul.MenuBarVertical li
 	width: 100%;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: rgba(0,0,255,1);
+	border-bottom-color: rgba(0,0,255,.9);
+	;
 }
 /* Submenus should appear slightly overlapping to the right (95%) and up (-5%) with a higher z-index, but they are initially off the left side of the screen (-1000em) */
 ul.MenuBarVertical ul
@@ -89,22 +90,24 @@ ul.MenuBarVertical a
 {
 	display: block;
 	cursor: pointer;
-	background-color: rgba(0,0,255,.2);
+	background-color: rgba(0,34,164,.7);
+	;
 	padding: 0.5em 0.75em;
-	color: #000;
+	color: #FFF;
 	text-decoration: none;
 	text-align: center;
 }
 /* Menu items that have mouse over or focus have a blue background and white text */
 ul.MenuBarVertical a:hover, ul.MenuBarVertical a:focus
 {
-	background-color: #33C;
+	background-color: rgba(255,75,0,1);
+	;
 	color: #FFF;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
 ul.MenuBarVertical a.MenuBarItemHover, ul.MenuBarVertical a.MenuBarItemSubmenuHover, ul.MenuBarVertical a.MenuBarSubmenuVisible
 {
-	background-color: #33C;
+	background-color: rgba(255,75,0,1);
 	color: #FFF;
 }
 
